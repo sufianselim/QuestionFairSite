@@ -774,21 +774,10 @@ nav {
 
 .subscribe-form {
   position: relative;
-  margin-top: 5rem;
+  margin-top: 20px;
 }
 
-.form-input {
-  border: none;
-  height: 50px;
-  outline: none;
-  width: 40%;
-  background-color: #f8f8f8;
-  border-radius: 3.125rem;
-  padding: 0 30px;
-  padding-right: 210px;
-  /*   position: relative; */
-  font-size: 18px;
-}
+
 
 .subscribe-btn {
   background: linear-gradient(to bottom, #d90647 10%, #eb402c 100%);
@@ -797,8 +786,8 @@ nav {
   color: #ffffff;
   outline: none;
   padding: 15px 60px;
-  position: absolute;
-  margin-left: -200px;
+  position: relative;
+  
 }
 .subscribe-btn:hover {
   background: linear-gradient(to bottom, #d90647 10%, #eb402c 100%);
